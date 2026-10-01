@@ -1,0 +1,21 @@
+Synthetic datasets in this repository (data/) are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Copyright (c) 2026 Inflection AI
+
+You are free to share and adapt this material for any purpose, including
+commercially, provided you give appropriate credit, link to the license, and
+indicate if changes were made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary: https://creativecommons.org/licenses/by/4.0/
+
+Suggested attribution:
+  Kaye, J. (2026). Synthetic survey respondent datasets, from
+  "When Can a Language Model Take Your Survey?" Inflection AI.
+  https://github.com/jofish-inf/synthetic-survey-respondents
+
+NOTE ON PROVENANCE: These datasets are generated output from large language
+models accessed via the Anthropic, OpenAI, and Google APIs. They are provided
+for research use. Users who redistribute or build upon them should also consult
+the respective providers' terms of use governing model output.
